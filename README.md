@@ -15,8 +15,8 @@ Automate the deployment of a Python Flask app using Jenkins, Docker, Terraform, 
 
 **GitHub → Jenkins → ACR → AKS → Prometheus/Grafana**
 
-## 📸 Screenshots / Dashboards
-_Add images here (optional)_
+// ## 📸 Screenshots / Dashboards
+// _Add images here (optional)_
 
 ## ✅ Technologies Used
 
